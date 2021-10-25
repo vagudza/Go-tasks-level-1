@@ -13,5 +13,8 @@ func main() {
 	//tasks.Task6()
 	//tasks.Task7()
 	//tasks.Task8()
-	tasks.Task9()
+	//tasks.Task9()
+	//tasks.Task10()
+	//tasks.Task11()
+	tasks.Task12()
 }
