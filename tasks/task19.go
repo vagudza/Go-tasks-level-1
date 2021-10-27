@@ -23,11 +23,12 @@ func ReverseString(s string) string {
 	strLen := utf8.RuneCountInString(s)
 
 	// создаем срез рун, определяем длину в рунах
-	reverseQuestion := make([]rune, strLen)
+	reverseString := make([]rune, strLen)
 	ind := 1
+	// цикл с range - не по байтам, а по символам
 	for _, c := range s {
-		reverseQuestion[strLen-ind] = c
+		reverseString[strLen-ind] = c
 		ind++
 	}
-	return string(reverseQuestion)
+	return string(reverseString)
 }
