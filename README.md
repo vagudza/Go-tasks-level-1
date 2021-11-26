@@ -1,9 +1,7 @@
 # wb-L1-tasks
-Решение задач WB Tech: level # 1 (Golang)
+Решение задач level# 1 (Golang)
 
 ## Запуск программы
-- git clone https://git.wildberries.ru/Gudza.Vitaliy/wb-l1-tasks.git
-- cd wb-l1-tasks 
 - go run `main.go`
 
 ## Описание
