@@ -1,4 +1,4 @@
-# wb-L1-tasks
+# golang-tasks-lvl1
 Решение задач level# 1 (Golang)
 
 ## Запуск программы
