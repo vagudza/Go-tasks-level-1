@@ -1,4 +1,4 @@
-# golang-tasks-lvl1
+# Go tasks level 1
 Решение задач level# 1 (Golang)
 
 ## Примеры задач
