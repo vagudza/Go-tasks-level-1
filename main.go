@@ -3,11 +3,10 @@ package main
 import "wb-l1-tasks/tasks"
 
 func main() {
-	tasks.TaskFinal()
-	//tasks.Task1()
-	//tasks.Task2()
-	//tasks.Task3()
-	//tasks.Task4()
+	// tasks.Task1()
+	// tasks.Task2()
+	// tasks.Task3()
+	// tasks.Task4()
 	// tasks.Task5()
 	// tasks.Task6()
 	// tasks.Task7()
@@ -30,4 +29,6 @@ func main() {
 	// tasks.Task24()
 	// tasks.Task25()
 	// tasks.Task26()
+	// tasks.TaskFinal()
+	tasks.Task27()
 }
