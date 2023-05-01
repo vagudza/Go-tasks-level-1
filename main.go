@@ -29,6 +29,11 @@ func main() {
 	// tasks.Task24()
 	// tasks.Task25()
 	// tasks.Task26()
-	// tasks.TaskFinal()
-	tasks.Task27()
+	// tasks.Task27()
+	// tasks.Task28()
+	// tasks.Task29()
+	// tasks.Task30()
+	// tasks.Task31()
+	// tasks.Task32()
+	tasks.Task33()
 }

@@ -13,7 +13,7 @@ package main
 
 import ("fmt" "math")
 
-func dump(c chan int, a [] int) {
+func dump(c chan int, a []int) {
     for _, i:= range(a) { c <- i }
     close(c)
 }
