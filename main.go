@@ -43,5 +43,6 @@ func main() {
 	// tasks.Task38()
 	// tasks.Task39()
 	// tasks.Task40()
-	tasks.Task41()
+	// tasks.Task41()
+	tasks.Task42()
 }
